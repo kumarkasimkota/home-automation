@@ -2,7 +2,7 @@
  * ESP32 Light Control - Simple On/Off
  * 
  * This code controls a light (LED/relay) connected to ESP32
- * Press button to toggle light on/off
+ * Press button to toggle light on/off this Was Created for the WISE College management 
  */
 
 // Pin definitions
